@@ -57,5 +57,14 @@ ${basedir}/src/main/webapp/WEB-INF/classes
  <version>4.0.1</version>
  <scope>provided</scope>
 </dependency>
+
+<dependency>
+	<groupId>org.wildfly</groupId>
+	<artifactId>wildfly-jsf</artifactId>
+	<version>24.0.1.Final</version>
+	<scope>provided</scope>
+</dependency>
+
+
 </dependencies>
 </project>
