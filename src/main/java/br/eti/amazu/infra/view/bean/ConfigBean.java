@@ -33,7 +33,7 @@ public class ConfigBean implements Serializable{
 		config.setMenuType("menuBar"); //O menu default eh menuBar (horizontal).	
 
 		//Setando os diversos parametros de skin para o aplicativo.
-		config.setSkinAnimatedTop("F"); //..........................Topo default "nao-animado".
+		config.setSkinAnimatedTop("T"); //..........................Topo default "nao-animado".
 		config.setSkinBackground("vetruvian"); //...................Skin default - vetruvian.
 		config.setSkinImageLogo("amazuLogo.gif"); //................Imagem logotipo da empresa.
 		config.setSkinLogo("T"); //.................................Topo - logotipo da empresa.
